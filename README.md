@@ -1,8 +1,7 @@
 # Data-Analytics-1
-# Lean Six Sigma Case Study: College IT Help Desk
 
-## Case Overview
-A college IT Help Desk supports students and staff. Many users complain that their tickets (technical issues) take too long to be resolved. The goal is to reduce average ticket resolution time while keeping service quality high.
+## Lean Six Sigma
+Case: A college IT Help Desk supports students and staff. Many users complain that their tickets (technical issues) take too long to be resolved. The goal is to reduce average ticket resolution time while keeping service quality high.
 
 ---
 
